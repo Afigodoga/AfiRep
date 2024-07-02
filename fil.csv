@@ -1,0 +1,6 @@
+Transaction_ID, Date, Time, Amount, Description
+1, 2024-06-01, 10:15:00, 50.00, Grocery Store
+2, 2024-06-02, 15:30:00, 20.50, Coffee Shop
+3, 2024-06-03, 12:00:00, 75.25, Restaurant
+4, 2024-06-04, 09:45:00, 15.75, Bookstore
+5, 2024-06-05, 14:20:00, 30.00, Gas Station
